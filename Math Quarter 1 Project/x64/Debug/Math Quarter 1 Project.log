@@ -1,0 +1,5 @@
+﻿  computerMain.c
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\computermain.c(10): warning C4026: function declared with formal parameter list
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\computermain.c(20): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'int (__cdecl *)(void)'
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\computermain.c(8): warning C4716: 'computerMain__getInput': must return a value
+  Math Quarter 1 Project.vcxproj -> C:\Users\Ben\Source\Repos\Math Quarter 1 Project\x64\Debug\Math Quarter 1 Project.exe
